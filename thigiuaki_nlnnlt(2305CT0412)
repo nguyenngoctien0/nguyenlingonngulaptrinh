@@ -16,7 +16,7 @@ bool compareMSSV(string a, string b) {
 int main() {
     string danhsachMSSV[5] = { "", "2301CT1234", "2302CT3456", "2305CT3999", "2304CT0002" };
 
-    cout << "Nhap MSSV: ";
+    cout << "Nhap MSSV cua Ban: ";
     cin >> danhsachMSSV[0];
 
     cout << "Danh sach MSSV ban dau:\n";
